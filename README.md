@@ -1,5 +1,5 @@
 ## Oii! Eu sou o Gustavo Meireles Lessa, bacharel em Biotecnologia e Trainee em TI.
-- 💻 Atualmente estou aprendendo Oracle Cloud, Python, H2o.ia e Qlik;
+- 💻 Atualmente estou aprendendo Oracle Cloud, Python, Blockchain, Javascript e NodeJS;
 - 🎓 Data Science e Analytics;
 - 💼 Trainee de tecnologia da informação na Tarea Management;
 - 💬 Me pergunte sobre qualquer coisa;
@@ -15,7 +15,8 @@
  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Gustavo-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-</div>
+ <img align="center" alt="Gustavo-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+ </div>
   
   ##
  
