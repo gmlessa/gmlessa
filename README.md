@@ -6,7 +6,7 @@
 - 📫 Como falar comigo: gm.lessa@hotmail.com;
  <div>
   <a href="https://github.com/gmlessa">
-  <img height="180em" <img src="https://github.com/gmlessa/github-readme-stats" />
+  <img height="180em" <img src="https://github-readme-stats.vercel.app/api?username=gmlessax&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmlessa&count_private=true&include_all_commits=true&border_radius=5px&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&layout=compact"/>
 <div>
 <div style="display: inline_block"><br>
